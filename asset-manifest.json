@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-serices-02/static/css/main.6f6a2622.css",
+    "main.js": "/web-serices-02/static/js/main.ca1801e9.js",
+    "index.html": "/web-serices-02/index.html",
+    "main.6f6a2622.css.map": "/web-serices-02/static/css/main.6f6a2622.css.map",
+    "main.ca1801e9.js.map": "/web-serices-02/static/js/main.ca1801e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f6a2622.css",
+    "static/js/main.ca1801e9.js"
+  ]
+}
